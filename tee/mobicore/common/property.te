@@ -1,1 +1,1 @@
-type tee_prop, property_type;
+type tee_prop, system_property_type, property_type;
